@@ -31,7 +31,7 @@
     },
     {
         "id": 732,
-        "name": "32. W-DE<img class='team' src='https://asserts.wormworld.io/rooms/favicon128x128.png'/>",
+        "name": "32. W-DE",
         "region": "australia",
         "serverUrl": "wss://sin-b.wormate.io:32677/wormy",
         "status": 1
@@ -1245,18 +1245,19 @@
   },
   {
     "id": 2,
-    "name": "de2<img class='team' src='https://asserts.wormworld.io/rooms/favicon128x128.png'/>",
+    "name": "de2",
     "region": "peru",
     "serverUrl": "wss://fra-c.wormate.io:32103/wormy",
     "status": 1
   },
   {
     "id": 1,
-    "name": "01 DARK XO<img class='team' src='https://asserts.wormworld.io/rooms/favicon128x128.png'/>",
+    "name": "01 DARK XO",
     "region": "peru",
     "serverUrl": "wss://fra-c.wormate.io:32053/wormy",
     "status": 1
   }
   ]
 }
+
 
