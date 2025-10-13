@@ -9915,7 +9915,7 @@ fpsBox.style.padding = "2px 5px";
 fpsBox.style.fontSize = "12px";
 fpsBox.style.borderRadius = "3px";
 fpsBox.style.fontWeight = "bold";
-fpsBox.style.textShadow = "1px 1px 2px rgba(0,0,0,0.5)";
+fpsBox.style.textShadow = "2px 3px 4px rgba(0,0,0,0.5)";
 fpsBox.textContent = "FPS: 0";
 document.body.appendChild(fpsBox);
 
