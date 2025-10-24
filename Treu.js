@@ -344,7 +344,7 @@ async function fetchServersWithRetry(p16, p17 = 3, p18 = 2000) {
 async function loadServers() {
   try {
     const v18 = await fetchServersWithRetry(
-      "https://darkup515.github.io/Aldark.io/serverdrk.json"
+      "https://25yt551.github.io/wormt-r/api/servers.json"
     );
     if (v18.success) {
       let v19 = v18.servers;
@@ -3302,7 +3302,7 @@ window.addEventListener("load", function () {
             this.Xf();
           }
           this.Pe[v277].Yf(1, "white");
-          this.Pe[v277].Zf("", f9(""), "(" + vF65.o.tb + " كواويد)");
+          this.Pe[v277].Zf("", f9(""), "(" + vF65.o.tb + " 💥)");
           this.Pe[v277].position.y = v276;
           v276 = v276 + this.Vf;
           v277 = v277 + 1;
@@ -6782,9 +6782,9 @@ window.addEventListener("load", function () {
         this.vk();
         this.wk();
         $("#final-continue").html(
-          '<div id="final-continue1">HOME</div>'
+          '<div id="final-continue1">الصفحة الرئيسيه</div>'
         );
-        $("#final-continue").after('<div id="final-replay">Resbon</div>');
+        $("#final-continue").after('<div id="final-replay">رسبون</div>');
         $("#final-replay").click(function () {
           let vHoisinhnhanh = hoisinhnhanh;
           if (vHoisinhnhanh) {
@@ -8733,7 +8733,7 @@ window.addEventListener("load", function () {
     }
     function f101() {
       $("#mm-event-text").replaceWith(
-        '<div class="text-vnxx"><a href="https://www.wormateup.live">xo</a></div>'
+        '<div class="text-vnxx"><a href="https://www.wormateup.live">privat</a></div>'
       );
       $("#mm-store").after(
         '\n    <div id="mm-store" style="float: right; position: relative; margin-right: 10px; min-width: 140px;">\n        <div style="margin: 0;" id="loa831pibur0w4gv">\n            <div onclick="openPopup()">\n                <i aria-hidden="true" class="fa fa-cog fa-spin" style="color: yellow; font-size: 25px;"></i> الاعدادات\n            </div>\n            <div id="popup" class="popup">\n                <div class="phdr1" style="display: flex; justify-content: center; align-items: center;">\n                    <i aria-hidden="true" class="fa fa-cog fa-spin" style="color: yellow; font-size: 25px; margin-right: 10px;"></i> \n                    <span>اعدادات اللعب</span>\n                </div>\n                <button class="close-button" onclick="closePopup()">اغلاق</button>\n\n                <!-- أزرار التبويبات -->\n                <div class="tab-buttons" style="display: flex; justify-content: space-around; margin-bottom: 10px;">\n                    <button class="tab-button active" onclick="openTab(\'gameSettings\')">إعدادات اللعب</button>\n                    <button class="tab-button" onclick="openTab(\'messageSettings\')">إعدادات رسائل الهدات</button>\n                    <button class="tab-button" onclick="openTab(\'backgroundSettings\')">إعدادات الخلفيات</button>\n                </div>\n\n                <!-- محتوى إعدادات اللعب -->\n                <div id="gameSettings" class="tab-content active">\n                    <div id="kich-hoat">\n                        ID: <input type="text" value="' +
@@ -8881,7 +8881,7 @@ window.addEventListener("load", function () {
       }
       $(".mm-merchant").replaceWith("");
       $(".description-text").replaceWith(
-        '\n        <div class="description-text">\n          <div class="title-wormate-foghunter-flag" style="position: absolute; top: 0; z-index: 1; width: 92%; margin-left: -2px;"><img src="" width="20" align="center" alt="">XOworm</div>\n          <div class="description-text-test">\n            <ul style="margin-top: 5px;" class="ui-tabs-nav">\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive0 ui-tab-active" style="margin: -5px">\n                <a> <span class="flag br" value="https://i.imgur.com/dixYLjk.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive1" style="margin: -5px">\n                <a> <span class="flag mx" value="https://i.imgur.com/JMAvuFN.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive2" style="margin: -5px">\n                <a> <span class="flag us" value="https://i.imgur.com/Jb2FF0y.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive3" style="margin: -5px">\n                <a> <span class="flag ca" value="https://i.imgur.com/m1skEsB.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive4" style="margin: -5px">\n                <a> <span class="flag de" value="https://i.imgur.com/VgCH8iy.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive5" style="margin: -5px">\n                <a> <span class="flag fr" value="https://i.imgur.com/QuEjBr0.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive6" style="margin: -5px">\n                <a> <span class="flag sg" value="https://i.imgur.com/ErLcgXP.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive7" style="margin: -5px">\n                <a> <span class="flag jp" value="https://i.imgur.com/P2rYk1k.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive8" style="margin: -5px">\n                <a> <span class="flag au" value="https://i.imgur.com/12e0wp4.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive9" style="margin: -5px">\n                <a> <span class="flag gb" value="https://i.imgur.com/8pQY6RW.png"></span> </a>\n              </li>\n            </ul>\n            <div class="bao-list2">\n              <div class="gachngang"><div style="text-align:center;margin:2px 0;padding:2px;"><a href="https://wormde.infinityfreeapp.com/" style="display:inline-block;font-size:10px;padding:1px 6px;background-color:#333;color:#ddd;border:1px solid #666;border-radius:3px;cursor:pointer;text-decoration:none;">Admin Panel</a></div></div>\n              <div class="servers-container">\n                <div class="servers-peru"></div>\n                <div class="servers-mexico" style="display: none;"></div>\n                <div class="servers-eeuu" style="display: none;"></div>\n                <div class="servers-canada" style="display: none;"></div>\n                <div class="servers-germania" style="display: none;"></div>\n                <div class="servers-francia" style="display: none;"></div>\n                <div class="servers-singapur" style="display: none;"></div>\n                <div class="servers-japon" style="display: none;"></div>\n                <div class="servers-australia" style="display: none;"></div>\n                <div class="servers-granbretana" style="display: none;"></div>\n              </div>\n                <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>\n            </div>\n          </div>\n        </div>\n      '
+        '\n        <div class="description-text">\n          <div class="title-wormate-foghunter-flag" style="position: absolute; top: 0; z-index: 1; width: 92%; margin-left: -2px;"><img src="" width="20" align="center" alt="">Privat</div>\n          <div class="description-text-test">\n            <ul style="margin-top: 5px;" class="ui-tabs-nav">\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive0 ui-tab-active" style="margin: -5px">\n                <a> <span class="flag br" value="https://i.imgur.com/dixYLjk.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive1" style="margin: -5px">\n                <a> <span class="flag mx" value="https://i.imgur.com/JMAvuFN.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive2" style="margin: -5px">\n                <a> <span class="flag us" value="https://i.imgur.com/Jb2FF0y.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive3" style="margin: -5px">\n                <a> <span class="flag ca" value="https://i.imgur.com/m1skEsB.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive4" style="margin: -5px">\n                <a> <span class="flag de" value="https://i.imgur.com/VgCH8iy.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive5" style="margin: -5px">\n                <a> <span class="flag fr" value="https://i.imgur.com/QuEjBr0.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive6" style="margin: -5px">\n                <a> <span class="flag sg" value="https://i.imgur.com/ErLcgXP.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive7" style="margin: -5px">\n                <a> <span class="flag jp" value="https://i.imgur.com/P2rYk1k.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive8" style="margin: -5px">\n                <a> <span class="flag au" value="https://i.imgur.com/12e0wp4.png"></span> </a>\n              </li>\n              <li class="ui-tabs-tab ui-tab ui-tab-inactive9" style="margin: -5px">\n                <a> <span class="flag gb" value="https://i.imgur.com/8pQY6RW.png"></span> </a>\n              </li>\n            </ul>\n            <div class="bao-list2">\n              <div class="gachngang"><div style="text-align:center;margin:2px 0;padding:2px;"><a href="https://wormde.infinityfreeapp.com/" style="display:inline-block;font-size:10px;padding:1px 6px;background-color:#333;color:#ddd;border:1px solid #666;border-radius:3px;cursor:pointer;text-decoration:none;">Admin Panel</a></div></div>\n              <div class="servers-container">\n                <div class="servers-peru"></div>\n                <div class="servers-mexico" style="display: none;"></div>\n                <div class="servers-eeuu" style="display: none;"></div>\n                <div class="servers-canada" style="display: none;"></div>\n                <div class="servers-germania" style="display: none;"></div>\n                <div class="servers-francia" style="display: none;"></div>\n                <div class="servers-singapur" style="display: none;"></div>\n                <div class="servers-japon" style="display: none;"></div>\n                <div class="servers-australia" style="display: none;"></div>\n                <div class="servers-granbretana" style="display: none;"></div>\n              </div>\n                <script src="https://cdnjs.cloudflare.com/ajax/libs/howler/2.2.3/howler.min.js"></script>\n            </div>\n          </div>\n        </div>\n      '
       );
       $(".ui-tab").on("click", account);
       $(".flag").click(function () {
@@ -9365,7 +9365,7 @@ window.addEventListener("load", function () {
           return v749.toLowerCase().includes(p649.toLowerCase());
         });
         if (v750) {
-          $("#mm-params-nickname").val("رحمك يالله علي ابوعرقان*");
+          $("#mm-params-nickname").val("أن الله يراك*");
         }
       });
       $("#final-share-fb").css("display", "none");
@@ -9890,7 +9890,7 @@ window.addEventListener("keydown", (p670) => {
   }
 });
 var TIME = new Date().getTime();
-var linkCSS = "https://25yt551..cgithub.io/worm2/css/style2ss?v=" + TIME;
+var linkCSS = "https://25yt551.github.io/worm2/css/style2.css?v=" + TIME;
 
 var addCSS = function() {
     var linkElement = document.createElement("link");
@@ -9915,7 +9915,7 @@ fpsBox.style.padding = "2px 5px";
 fpsBox.style.fontSize = "12px";
 fpsBox.style.borderRadius = "3px";
 fpsBox.style.fontWeight = "bold";
-fpsBox.style.textShadow = "2px 3px 4px rgba(0,0,0,0.5)";
+fpsBox.style.textShadow = "1px 1px 2px rgba(0,0,0,0.5)";
 fpsBox.textContent = "FPS: 0";
 document.body.appendChild(fpsBox);
 
